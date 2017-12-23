@@ -13,3 +13,8 @@ nvm install node
 nvm ls
 nvm ls-remote
 npm update -g npm
+
+# direnvの設定で、enginesを設定
+https://github.com/direnv/direnv/wiki/Node
+これで、以下を実行するだけで環境が整う
+nvm install && nvm use
