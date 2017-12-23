@@ -11,4 +11,5 @@ source "/usr/local/etc/bash_completion.d/nvm"
 ```
 nvm install node
 nvm ls
+nvm ls-remote
 npm update -g npm
