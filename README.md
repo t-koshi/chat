@@ -18,3 +18,7 @@ npm update -g npm
 https://github.com/direnv/direnv/wiki/Node
 これで、以下を実行するだけで環境が整う
 nvm install && nvm use
+
+# 開発
+bin/webpack-dev-server
+rails s
